@@ -1,0 +1,12 @@
+cybersecurity-final-project/ 
+├── Cyber_Lab_Documentation.docx 
+├── Forensics_Investigation_Report.docx ├── 
+Firewall_Configuration_Documentation.docx 
+├── Screenshots/ │ 
+  ├── kali_vm_settings.png │ 
+  ├── ping_test.png │ 
+  ├── autopsy_analysis.png │ 
+  └── firewall_rules.png 
+├── android_image/ │ 
+└── [evidence .img or .dd file if allowed] 
+├── README.md
